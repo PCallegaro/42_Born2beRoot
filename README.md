@@ -27,7 +27,8 @@ Perguntas da avaliação:
     
     -Quantidade de pacotes oferecidas é maior comparado ao CentOS.
     
-    ![Screen Shot 2022-05-07 at 6.34.09 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4c82852-85af-4a17-bc79-1796d6c5c3e2/Screen_Shot_2022-05-07_at_6.34.09_PM.png)
+    <img width="580" alt="Screen Shot 2022-05-07 at 6 34 09 PM" src="https://user-images.githubusercontent.com/83246404/167266847-78b658f0-814f-4155-ab5d-61a851947898.png">
+
     
     Fonte :[https://pt.education-wiki.com/9597652-centos-vs-debian](https://pt.education-wiki.com/9597652-centos-vs-debian)
     
