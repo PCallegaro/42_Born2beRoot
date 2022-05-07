@@ -4,9 +4,10 @@
     
     [Borne2beRoot-Traduzido.pdf](https://github.com/PCallegaro/42_Born2beRoot/files/8645739/Borne2beRoot-Traduzido.pdf)
 
-# Melhores guias para o projeto:
+- **Melhores guias para o projeto:**
 
     https://github.com/benmaia/42_Born2beRoot
+    
     https://soraianovaes.notion.site/Born2beroot-d22e0203fc144c38a8f809f0432ee5d7
 
 # Perguntas da avaliação:
