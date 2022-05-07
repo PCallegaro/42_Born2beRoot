@@ -1,6 +1,10 @@
 # Born2beRoot - peantoni - 42Lisboa
 
-Perguntas da avaliação:
+- **Arquivo do trabalho Born2beroot traduzido em PT-BR**
+    
+    [Borne2beRoot-Traduzido.pdf](https://github.com/PCallegaro/42_Born2beRoot/files/8645739/Borne2beRoot-Traduzido.pdf)
+
+# Perguntas da avaliação:
 
 - **Como funciona uma VM(Virtual Machine)?**
     
@@ -91,3 +95,22 @@ Perguntas da avaliação:
     Esses dois comandos são, de uma maneira geral, os responsáveis pelo agendamento e execução de tarefas que o usuário espera que sejam executadas com certa regularidade. Essa constância pode ser várias vezes por minuto, hora, dia, mês ou ano. Com toda a vantagem que os scripts possibilitam em qualquer linguagem que seja escrito, todas as possibilidades se tornam praticamente infinitas.
     
     Suponha que você precise fazer um backup de seu banco de dados MySQL, todos os dias as 6 horas da manhã. Não seria mais viável que o próprio Linux fizesse esse backup automaticamente para você? É esse tipo de comodidade que o Cron permite que você tenha. Além disso, é muito simples e basta criar um script e agendar no arquivo Crontab para que o backup seja executado todos os dias na hora estipulada por você.
+
+<hr>
+
+- **Links Uteis**
+    
+    https://soraianovaes.notion.site/Born2beroot-d22e0203fc144c38a8f809f0432ee5d7
+    
+    https://pt.linux-console.net/?p=1375
+    
+    https://pt.education-wiki.com/9597652-centos-vs-debian
+    
+    https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/
+    
+    https://web.mit.edu/rhel-doc/3/rhel-sag-pt_br-3/ch-lvm-intro.html
+    
+    https://www.isbrasil.info/blog/o-que-e-cron-e-crontab.html
+    
+    https://github.com/benmaia
+    
