@@ -4,6 +4,10 @@
     
     [Borne2beRoot-Traduzido.pdf](https://github.com/PCallegaro/42_Born2beRoot/files/8645739/Borne2beRoot-Traduzido.pdf)
 
+- **Arquivo Notion Born2beroot**
+
+    [Born2beRoot_-_peantoni_-_42Lisboa.pdf](https://github.com/PCallegaro/42_Born2beRoot/files/8645872/Born2beRoot_-_peantoni_-_42Lisboa.pdf)
+    
 - **Melhores guias para o projeto:**
 
     https://github.com/benmaia/42_Born2beRoot
